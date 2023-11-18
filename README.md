@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 <h1 align="center">Hello mf 👋, I'm Le Duc Phuong</h1>
 <h3 align="center">I'm studying Computer Engineering (IT2) in HUST and I dont know when i out my university i think it maybe 8 years or more</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
