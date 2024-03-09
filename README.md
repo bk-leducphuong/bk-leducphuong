@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hello mf 👋, I'm Le Duc Phuong</h1>
-<h3 align="center">I'm studying Computer Engineering (IT2) at HUST and I don't know when I out my university I think it may be 8 years or more</h3>
+<h3 align="center">I'm studying Computer Engineering (IT2) at HUST</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Python**
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences: **I don't have any experiences**
 
-- ⚡ Fun fact about me **I am introvert part-time and 15cm :)))**
+- ⚡ Fun fact about me **I am a funny guy:)))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
