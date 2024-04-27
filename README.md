@@ -3,17 +3,15 @@
 <h3 align="center">I'm studying Computer Engineering (IT2) at HUST</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 You can get more information about me in here -> [https://leducphuong19122004.github.io/](https://leducphuong19122004.github.io/)
 
-- 💬 Ask me about **Nodejs, Vuejs, SQL, C++,... anything I know**
+- 💬 Ask me about **Nodejs, Vuejs, SQL, C++, Python, Selenium,... anything I know**
 
 - 📫 How to reach me **phuongtroc2004@gmail.com**
 
 - 📄 Know about my experiences: **I don't have any experiences**
 
-- ⚡ Fun fact about me **I am a funny guy:)))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
