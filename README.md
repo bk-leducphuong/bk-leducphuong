@@ -1,12 +1,12 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hello mf 👋, I'm Le Duc Phuong</h1>
+<h1 align="center">Hello 👋, I'm Le Duc Phuong</h1>
 <h3 align="center">I'm studying Computer Engineering (IT2) at HUST</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 👨‍💻 You can get more information about me in here -> [https://leducphuong19122004.github.io/](https://leducphuong19122004.github.io/)
+- 👨‍💻 You can get more information about me here -> [https://leducphuong19122004.github.io/](https://leducphuong19122004.github.io/)
 
-- 💬 Ask me about **Nodejs, Vuejs, SQL, C++, Python, Selenium,... anything I know**
+- 💬 Ask me about **Nodejs, SQL, C++, Python,...**
 
 - 📫 How to reach me **phuongtroc2004@gmail.com**
 
