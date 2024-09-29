@@ -1,7 +1,7 @@
-![Header](./github-header-image.png)
-<h1 align="center">Hello 👋, I'm Le Duc Phuong</h1>
-<h3 align="center">I'm studying Computer Engineering (IT2) at HUST</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<h1 align="center">こんにちは</h1>
+<h3 align="center">I'm "studying" Computer Engineering (IT2) at HUST</h3>
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l5M213emxvNTZzN3lndWh0dWUwZTFvem5scTFyaTZoN2cyYXlnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/28GHfhGFWpFgsQB4wR/giphy.gif">
 
 
 - 👨‍💻 You can get more information about me here: https://leducphuong19122004.github.io/
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **phuongtroc2004@gmail.com**
 
-- 📄 Know about my experiences: **Empty paper**
+- 📄 Know about my experiences: **Im unemployed, pls hire me 😭**
 
 
 <h3 align="left">Connect with me:</h3>
