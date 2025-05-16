@@ -1,2 +1,2 @@
-# Le Duc Phuong - Vibe coder - Fulltab developer 😎
+# Vibe coder - Fulltab developer - Linux user 😎
 
