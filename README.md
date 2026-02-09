@@ -33,17 +33,27 @@ I'm a passionate Full Stack JavaScript Developer specializing in backend develop
 
 #### 🗄️ **Databases & Caching**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=redis,mysql,mongodb" height="50" />
+</p>
+
+#### 🔍 **Search Engines**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=elasticsearch" height="50" />
+</p>
+
+#### 📩 **Queues & Messaging**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rabbitmq,kafka" height="50" />
 </p>
 
 #### ☁️ **Cloud & DevOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux" height="50" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux" height="50" />
 </p>
 
 #### 🛠️ **Development Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=neovim,git,github" height="50" />
+  <img src="https://skillicons.dev/icons?i=neovim,git,github,gitlab,postman" height="50" />
 </p>
 
 #### 🤖 **AI-Powered Development**
@@ -56,20 +66,23 @@ I'm a passionate Full Stack JavaScript Developer specializing in backend develop
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bk-leducphuong&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bk-leducphuong&theme=dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bk-leducphuong&theme=radical" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bk-leducphuong&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bk-leducphuong&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bk-leducphuong&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bk-leducphuong&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bk-leducphuong&theme=radical&utcOffset=8" width="48%" />
 </p>
 
 ### � **Snake Eating My Contributions**
 ![Snake animation](https://github.com/bk-leducphuong/bk-leducphuong/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ1YzJ1d2V6a2F3d3V3aXJjZ2V1N2JzYzB5eGJ5b3V1eGJ1d3UxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
-</p>
 
+<br>
 <h4 align="center">Thanks for visiting! Feel free to star some repositories if you find them interesting! </h4>
 
